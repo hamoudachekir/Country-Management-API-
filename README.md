@@ -18,9 +18,3 @@ This project is a RESTful API for managing country data, including adding new co
 - Mongoose
 - Yup
 
-## Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
